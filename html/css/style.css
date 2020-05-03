@@ -1,0 +1,85 @@
+
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  margin: 0;
+}
+
+h2{
+  color: #1e836c;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-bar{
+  background-color: #1b1b2f;
+  height: 50px;
+}
+
+.first-page-div{
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.first-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.second-cloud{
+  position: absolute;
+  left: 200px;
+}
+
+.name-font{
+  font-family: 'Pacifico', cursive;
+  color: #5db9a4;
+  padding-top: 50px;
+}
+
+.programmer-font{
+  font-family: 'Source Code Pro', monospace;
+  color: #5db9a4;
+  line-height: 2;
+  font-weight: normal;
+}
+
+.developer-image{
+  height: 20%;
+  padding-top: 50px;
+}
+
+.second-page-div{
+  width: 50%;
+  margin: 10px auto 10px auto;
+}
+
+.intro-para{
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+
+.line-breaker{
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+  margin: 50px auto;
+}
+
+.skills-div{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.skill-images{
+  float: left;
+  width: 20%;
+  padding: auto 0;
+  margin-right: 20px;
+}
